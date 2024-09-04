@@ -76,7 +76,7 @@ The issue tracker is at https://github.com/djordon/queueing-tool/issues. Please 
 Copyright and license
 ---------------------
 
-Code and documentation Copyright 2014-2022 Daniel Jordon. Code released
+Code and documentation Copyright 2014-2024 Daniel Jordon. Code released
 under the `MIT
 license <https://github.com/djordon/queueing-tool/blob/master/LICENSE.txt>`__.
 
