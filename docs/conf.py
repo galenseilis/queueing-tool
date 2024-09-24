@@ -92,7 +92,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Queueing-tool'
-copyright = '2016, Daniel Jordon'
+copyright = '2024, Daniel Jordon'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
